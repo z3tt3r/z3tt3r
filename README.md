@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Michal 👋
 
-<!--
-**z3tt3r/z3tt3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
+I work in security (SOC), but I also enjoy building things.
 
-Here are some ideas to get you started:
+Lately I'm getting more into development and DevOps — trying to understand systems end-to-end, not just from the security side.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What am I currently working on?
+- detection & analysis in SOC
+- small side projects (full-stack, automation)
+- learning DevOps basics (Docker, CI/CD, workflows)
+
+## What tools do I use?
+- Sentinel, Defender, Wazuh  
+- KQL, Python, Java, JavaScript, SQL  
+- React, Spring Boot  
+- Docker, Docker Compose, GitHub Actions  
+
+## How to reach me?
+- GitHub (issues/discussions are fine)
+- LinkedIn: https://www.linkedin.com/in/michal-lisum/
