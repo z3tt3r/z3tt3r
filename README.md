@@ -6,15 +6,16 @@ I work at the intersection of security, analysis, and technology.
 My background combines risk, insurance, and SOC experience with a growing focus on development, automation, and systems design. I’m interested in understanding how systems work end-to-end — from business context and requirements to implementation, monitoring, and security.
 
 ## What am I currently working on?
-- detection & analysis in SOC
-- small personal projects (full-stack, automation)
-- learning DevOps basics (Docker, CI/CD, workflows)
+- detection engineering and incident analysis in SOC
+- small personal projects across full-stack development and automation
+- learning DevOps fundamentals (Docker, CI/CD, workflows)
+- improving my GitHub portfolio with practical, production-oriented projects
 
 ## Tools
-- Sentinel, Defender, Wazuh  
-- KQL, Python, Java, JavaScript, SQL  
-- React, Spring Boot  
-- Docker, Docker Compose, GitHub Actions  
+- **Security / SOC:** Sentinel, Defender, Wazuh, KQL
+- **Languages:** Python, Java, JavaScript, SQL
+- **Development:** React, Spring Boot
+- **DevOps / tooling:** Docker, Docker Compose, GitHub Actions, Git
 
 ## Contact
 - GitHub (issues/discussions are fine)
