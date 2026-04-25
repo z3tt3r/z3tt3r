@@ -1,9 +1,9 @@
 # Hi, I'm Michal 👋
 
 ## About me
-I work in security (SOC), but I also enjoy building things.
+I work at the intersection of security, analysis, and technology.
 
-Lately I'm getting more into development and DevOps — trying to understand systems end-to-end, not just from the security side.
+My background combines risk, insurance, and SOC experience with a growing focus on development, automation, and systems design. I’m interested in understanding how systems work end-to-end — from business context and requirements to implementation, monitoring, and security.
 
 ## What am I currently working on?
 - detection & analysis in SOC
